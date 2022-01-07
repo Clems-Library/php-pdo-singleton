@@ -1,0 +1,19 @@
+{
+    "name": "cleme/php-pdo-singleton",
+    "description": "Easy way to connect to MySQL using PDO",
+    "type": "library",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Cleme\\PhpPdoSingleton\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Clems-web",
+            "email": "clement.servais1@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
